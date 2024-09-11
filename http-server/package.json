@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.2",
+    "byte-size": "^9.0.0",
+    "csvtojson": "^2.0.10",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1"
+  },
+  "name": "http-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
